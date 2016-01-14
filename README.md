@@ -1,2 +1,2 @@
-# ListeSimpluInlantuite
+# Liste Simplu Inlantuite
 Liste Simplu Inlantuite
